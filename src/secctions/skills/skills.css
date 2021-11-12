@@ -1,0 +1,57 @@
+main .skills {
+  text-align: center;
+  background-image: url("../../img/backgraundDos.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+main .skills .backba{
+    padding-top: 70px;
+    padding-bottom: 80px;
+    background: rgb(33,33,33);
+    background: linear-gradient(0deg, rgba(33,33,33,1) 0%, rgba(255,255,255,0) 50%, rgba(36,36,36,1) 80%);
+}
+  main .skills .main_skills {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-around;
+  }
+  main .skills .main_skills .dominio, main .skills .main_skills .studying{
+    width: 50%;
+  }
+  main .skills .main_skills ul {
+    list-style: none;
+    margin-top: 50px;
+  }
+  main .skills .main_skills ul li {
+    display: inline-block;
+    margin: 10px 18px;
+  }
+  main .skills .main_skills ul li div {
+    display: flex;
+    align-items: center;
+    background-color: var(--secondary-blue);
+    border-radius: 50%;
+    padding: 2px;
+  }
+  main .skills .main_skills ul li img {
+    width: 80px;
+  }
+  @media (max-width: 700px) {
+    main .skills .main_skills {
+      display: flex;
+      flex-direction: column;
+    }
+    main .skills .main_skills .dominio {
+      width: 90%;
+      margin: 0 auto;
+    }
+    main .skills .main_skills .studying {
+      width: 90%;
+      margin-top: 50px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }

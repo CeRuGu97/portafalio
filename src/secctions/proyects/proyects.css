@@ -1,0 +1,107 @@
+main .proyects {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: var(--color-img);
+    text-align: center;  
+  }
+  main .proyects .main_cards--proyects {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+  }
+  main .proyects .main_cards--proyects .card__proyect {
+    /* width: 500px; */
+    margin: 10px;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 20px 30px;
+    border-radius: 11px;
+    background: linear-gradient(315deg, #272727, #202020);
+    box-shadow:  -29px -29px 57px #0e0e0e, 29px 29px 57px #3a3a3a;
+  }
+  main .proyects .main_cards--proyects .card__proyect img {
+    max-width: 473px;
+    height: 280px;
+    border-radius: 5px;
+  }
+  main .proyects .main_cards--proyects .card__proyect p {
+    max-width: 473px;
+    display: flex;
+    justify-content: flex-start;
+    padding: 5px 10px;
+  }
+  main .proyects .main_cards--proyects .card__proyect .lenguajes {
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 10px;
+  }
+  main .proyects .main_cards--proyects .card__proyect .card_links {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5px;
+  }
+  main .proyects .main_cards--proyects .card__proyect .card_links a {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    color: var(--warm-black);
+    text-decoration: none;
+    background-color: var(--secondary-blue);
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+    border-radius: 50px;
+    font-weight: 400;
+    margin-top: 20px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+  }
+  main .proyects .main_cards--proyects .card__proyect .card_links a:hover {
+    transform: translateY(-5px);
+    background-color: var(--orange);
+    color: white;
+    box-shadow: 0px 15px 20px rgba(91, 176, 255, 0.4);
+    
+  }
+  main .proyects .main_cards--proyects .card__proyect .card_links .githubicon {
+    background-image: url("../../img/bxl-github.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+  }
+  main .proyects .main_cards--proyects .card__proyect .card_links .linkicon {
+    background-image: url("../../img/iralsitio.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+  }
+  @media (max-width: 700px) {
+    main .proyects .main_cards--proyects {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    main .proyects .main_cards--proyects .card__proyect { 
+        width: 80%;
+    }
+  }
+  @media (max-width: 780px) {
+    main .proyects .main_cards--proyects .card__proyect .card_links {
+      display: flex;
+      flex-direction: column;
+      margin-top: 5px;
+      align-items: center;
+  }
+  main .proyects .main_cards--proyects .card__proyect .card_links a {
+      width: 80%;
+      display: flex;
+      justify-content: space-around;
+  }
+  }

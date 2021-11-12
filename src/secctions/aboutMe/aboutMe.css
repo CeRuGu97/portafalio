@@ -1,0 +1,29 @@
+main .sobreMi {
+    padding-top: 30px;
+    padding-bottom: 40px;
+    background-color: var(--color-img);
+  }
+  main .sobreMi .sobreMiMain {
+    width: 85%;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 35px;
+    padding-bottom: 80px;
+    border-radius: 51px;
+    background: #242424;
+    box-shadow:  -10px -10px 20px #131313, 10px 10px 20px #353535;
+  }
+  main h3, footer h3 {
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 50px;
+  }
+  main .sobreMi .sobreMiMain p {
+    width: 85%;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 18px;
+    font-weight: 300;
+    margin-top: 20px;
+    margin-bottom: 5px;
+  }
