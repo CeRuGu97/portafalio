@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/portafalio/static/css/main.85cfc6fc.chunk.css",
+    "main.js": "/portafalio/static/js/main.4e325eb6.chunk.js",
+    "main.js.map": "/portafalio/static/js/main.4e325eb6.chunk.js.map",
+    "runtime-main.js": "/portafalio/static/js/runtime-main.c148248f.js",
+    "runtime-main.js.map": "/portafalio/static/js/runtime-main.c148248f.js.map",
+    "static/js/2.96dd26dc.chunk.js": "/portafalio/static/js/2.96dd26dc.chunk.js",
+    "static/js/2.96dd26dc.chunk.js.map": "/portafalio/static/js/2.96dd26dc.chunk.js.map",
+    "index.html": "/portafalio/index.html",
+    "static/css/main.85cfc6fc.chunk.css.map": "/portafalio/static/css/main.85cfc6fc.chunk.css.map",
+    "static/js/2.96dd26dc.chunk.js.LICENSE.txt": "/portafalio/static/js/2.96dd26dc.chunk.js.LICENSE.txt",
+    "static/media/CVCesarRubioGuzman.58f991ef.pdf": "/portafalio/static/media/CVCesarRubioGuzman.58f991ef.pdf",
+    "static/media/precentation.css": "/portafalio/static/media/backgraound.6f23ace3.jpg",
+    "static/media/skills.css": "/portafalio/static/media/backgraundDos.e3cd1135.jpg",
+    "static/media/bxl-css3.f4140812.svg": "/portafalio/static/media/bxl-css3.f4140812.svg",
+    "static/media/proyects.css": "/portafalio/static/media/bxl-github.7f5f78b1.svg",
+    "static/media/bxl-html5.d399be1c.svg": "/portafalio/static/media/bxl-html5.d399be1c.svg",
+    "static/media/bxl-javascript.9a73de62.svg": "/portafalio/static/media/bxl-javascript.9a73de62.svg",
+    "static/media/bxl-nodejs.5bcf077e.svg": "/portafalio/static/media/bxl-nodejs.5bcf077e.svg",
+    "static/media/bxl-react.07774d3d.svg": "/portafalio/static/media/bxl-react.07774d3d.svg",
+    "static/media/bxl-sass.e3b1cca0.svg": "/portafalio/static/media/bxl-sass.e3b1cca0.svg",
+    "static/media/photome.b29e5d9b.png": "/portafalio/static/media/photome.b29e5d9b.png",
+    "static/media/protect3.4b24bc67.png": "/portafalio/static/media/protect3.4b24bc67.png",
+    "static/media/proyect1.36482707.png": "/portafalio/static/media/proyect1.36482707.png",
+    "static/media/proyect2.ec3174d0.png": "/portafalio/static/media/proyect2.ec3174d0.png",
+    "static/media/proyect4.828b29d1.png": "/portafalio/static/media/proyect4.828b29d1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c148248f.js",
+    "static/js/2.96dd26dc.chunk.js",
+    "static/css/main.85cfc6fc.chunk.css",
+    "static/js/main.4e325eb6.chunk.js"
+  ]
+}
