@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portafalio/static/css/main.85cfc6fc.chunk.css",
+    "main.css": "/portafalio/static/css/main.3e8da865.chunk.css",
     "main.js": "/portafalio/static/js/main.4e325eb6.chunk.js",
     "main.js.map": "/portafalio/static/js/main.4e325eb6.chunk.js.map",
     "runtime-main.js": "/portafalio/static/js/runtime-main.c148248f.js",
@@ -8,7 +8,7 @@
     "static/js/2.96dd26dc.chunk.js": "/portafalio/static/js/2.96dd26dc.chunk.js",
     "static/js/2.96dd26dc.chunk.js.map": "/portafalio/static/js/2.96dd26dc.chunk.js.map",
     "index.html": "/portafalio/index.html",
-    "static/css/main.85cfc6fc.chunk.css.map": "/portafalio/static/css/main.85cfc6fc.chunk.css.map",
+    "static/css/main.3e8da865.chunk.css.map": "/portafalio/static/css/main.3e8da865.chunk.css.map",
     "static/js/2.96dd26dc.chunk.js.LICENSE.txt": "/portafalio/static/js/2.96dd26dc.chunk.js.LICENSE.txt",
     "static/media/CVCesarRubioGuzman.58f991ef.pdf": "/portafalio/static/media/CVCesarRubioGuzman.58f991ef.pdf",
     "static/media/precentation.css": "/portafalio/static/media/backgraound.6f23ace3.jpg",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.c148248f.js",
     "static/js/2.96dd26dc.chunk.js",
-    "static/css/main.85cfc6fc.chunk.css",
+    "static/css/main.3e8da865.chunk.css",
     "static/js/main.4e325eb6.chunk.js"
   ]
 }
